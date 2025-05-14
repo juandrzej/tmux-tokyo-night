@@ -8,7 +8,7 @@
 
 ## Features
 
-- [Transparency support]
+- Transparency support
 
 ## Plugins
 
