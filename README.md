@@ -1,14 +1,14 @@
 <div align="center">
   <h1>Tokyo Night Tmux Theme</h1>
   
-  <h4>A Tokyo Night tmux theme forked from fabiolucian which has been directly inspired from Tokyo Night vim theme</h4>
+  <h4>A Tokyo Night tmux theme forked from fabioluciano which has been directly inspired from Tokyo Night vim theme</h4>
     
     
 </div>
 
 ## Features
 
-- [Transparency support](#Transparency-examples)
+- [Transparency support]
 
 ## Plugins
 
