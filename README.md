@@ -28,7 +28,7 @@ Hit <kbd>prefix</kbd> + <kbd>I</kbd> to fetch the plugin and source it. You can 
 
 | Configuration                       | Description                               | Avaliable Options                                                       | Default            |
 | ----------------------------------- | ----------------------------------------- | ----------------------------------------------------------------------- | ------------------ |
-| `@theme_variation`                  | The tokyo night theme variation to be use | `night`, `storm`, `moon`                                                | `moon`            |
+| `@theme_variation`                  | The tokyo night theme variation to be use | `night`, `storm`, `moon`                                                | `storm`            |
 | `@theme_active_pane_border_style`   |                                           |                                                                         | `#737aa2`          |
 | `@theme_inactive_pane_border_style` |                                           |                                                                         | `#292e42`          |
 | `@theme_left_separator`             |                                           |                                                                         | ``                |
